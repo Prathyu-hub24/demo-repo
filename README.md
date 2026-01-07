@@ -1,2 +1,1 @@
-# demo-repo
-demo repository
+diabetes_prediction using real time PIMA Data
